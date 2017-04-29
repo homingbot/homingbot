@@ -1,7 +1,7 @@
 # Homingbot - https://homingbot.io
 
 ### Overview
-Homingbot is a Fake SMTP Server &amp; Low-Maintenance Email Generator. It's content are set to automatically expire after a set duration. It is divided into 2 parts:
+Homingbot is a Fake SMTP Server &amp; Low-Maintenance Email Generator. Its content are set to automatically expire after a set duration. It is divided into 2 parts:
 1. __Controller__ or 'API' handles all rest API calls.
 2. __Nest__ or 'SMTP Server' receives incoming mails.
 
@@ -14,10 +14,10 @@ Homingbot is a Fake SMTP Server &amp; Low-Maintenance Email Generator. It's cont
 1. Install requirements
 `pip3.6 install -r requirements.txt`
 
-2. Update `config.py`
-__Cassandra__
-Update cassandra_hosts. If cassandra has ssl enabled, you'll have to provide an ssl cert and key.
-__Nest__
+2. Update `config.py`   
+__Cassandra__   
+Update cassandra_hosts. If cassandra has ssl enabled, you'll have to provide an ssl cert and key.   
+__Nest__   
 If you enable TLS, provide an ssl key and cert.
 
 3. Launch
