@@ -1,4 +1,4 @@
-# Homingbot - https://homingbot.io
+# Homingbot
 
 ### Overview
 Homingbot is a Fake SMTP Server &amp; Low-Maintenance Email Generator. Its content are set to automatically expire after a set duration. It is divided into 2 parts:
